@@ -1,0 +1,11 @@
+> llms.txt — WyattAu context-standards canon. The standard for
+> information fed to LLMs: a 4-layer budget model (L0 always-on
+> AGENTS.md through L4 computed script output), 14 CX rules, 4
+> refusals, the routing contract for standards routers, and the estate
+> standards-map. Consume CONTEXT-CORE.md for the canon.
+
+# context-standards
+
+- [CONTEXT-CORE](CONTEXT-CORE.md): the canon — doctrine, layers and budgets, CX rules, never-feed list, estate standards-map
+- [Routing contract](references/routing-contract.md): the CLI/output contract every standards router implements
+- [Artifact formats](references/artifact-formats.md): exact shapes of AGENTS.md, skill descriptions, SKILL.md, MCP descriptions, llms.txt, route output
